@@ -1,4 +1,4 @@
-# AWS Lab: Gerenciamento Seguro de Servidores com AWS Systems Manager (Session Manager)
+﻿# Lab AWS - Acesso Remoto Seguro e Administracao com Systems Manager (Sem SSH)
 
 Prática realizada durante a formação **AWS re/Start (Escola da Nuvem)** demonstrando como administrar servidores Linux e Windows na AWS sem precisar abrir portas SSH (22) ou RDP (3389) para a internet.
 
